@@ -1,6 +1,6 @@
 # hello-go
 
-[vSphere Integrated Containers Engine](https://github.com/vmware/vic)
+[vSphere Integrated Containers Engine] (https://github.com/vmware/vic)
 
 This is a demo Go app you can deploy to [Skyliner](https://www.skyliner.io). Here's a guide to getting started:
 
